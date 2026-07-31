@@ -1,0 +1,15 @@
+{
+  "version": "1.3.12",
+  "files": [
+    "components/schema.tsx",
+    "components/blocks.tsx",
+    "components/mockup-page.tsx",
+    "components/header-layout.tsx",
+    "app/[...slug]/page.tsx",
+    "app/page.tsx",
+    "app/sitemap.ts",
+    "public/_headers",
+    "functions/admin/[[path]].js",
+    "functions/_middleware.js"
+  ]
+}
