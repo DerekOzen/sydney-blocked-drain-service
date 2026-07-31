@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/blocked-drains-sydney",
+    "type": "page",
+    "title": "Blocked Drains Sydney",
+    "seoTitle": "Blocked Drain Plumber Sydney | 24/7 Emergency Drain Clearing | $0 Call-Out",
+    "seoDescription": "Blocked drain plumber in Sydney for homes, businesses and strata. Licensed and insured, no call-out fee, on call 24/7, most jobs reached within 60 minutes. Call (02) 8960 0868.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T05:28:05.560Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-07-31T05:28:05.560Z",
+    "createdBy": "ruzgar"
+  }
+]
