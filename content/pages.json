@@ -47,5 +47,21 @@
     "updatedBy": "ruzgar",
     "createdAt": "2026-07-31T06:18:53.888Z",
     "createdBy": "ruzgar"
+  },
+  {
+    "id": "pg-4",
+    "path": "/high-pressure-water-jetting",
+    "type": "service",
+    "title": "High Pressure Water Jetting",
+    "seoTitle": "High Pressure Water Jetting Sydney | Hydro Jet Drain Cleaning | $0 Call-Out",
+    "seoDescription": "High pressure water jetting (hydro jet) drain cleaning in Sydney. Blasts grease, sludge and roots and scours the pipe clean. Licensed, $0 call-out. Call (02) 8960 0868.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-31T06:22:33.237Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-07-31T06:22:33.237Z",
+    "createdBy": "ruzgar"
   }
 ]
