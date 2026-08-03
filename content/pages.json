@@ -9,9 +9,9 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-07-31T06:04:54.661Z",
-    "updatedBy": "ruzgar",
+    "status": "published",
+    "updatedAt": "2026-08-03T13:45:55.778Z",
+    "updatedBy": "derek",
     "createdAt": "2026-07-31T05:28:05.560Z",
     "createdBy": "ruzgar",
     "isHome": true
