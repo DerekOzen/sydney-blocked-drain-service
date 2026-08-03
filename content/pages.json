@@ -111,5 +111,21 @@
     "updatedBy": "ruzgar",
     "createdAt": "2026-08-03T02:23:03.432Z",
     "createdBy": "ruzgar"
+  },
+  {
+    "id": "pg-8",
+    "path": "/pipe-replacement",
+    "type": "service",
+    "title": "Pipe Replacement",
+    "seoTitle": "Pipe Replacement Sydney | Drain, Stormwater and Sewer Pipes | $0 Call-Out",
+    "seoDescription": "Sydney pipe replacement for drain, stormwater, gutter and sewer pipes that are collapsed or beyond relining. Dig, replace and reinstate. $0 call-out. Call (02) 8960 0868.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-03T02:23:53.806Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-08-03T02:23:53.806Z",
+    "createdBy": "ruzgar"
   }
 ]
