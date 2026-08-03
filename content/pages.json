@@ -191,5 +191,21 @@
     "updatedBy": "ruzgar",
     "createdAt": "2026-08-03T04:42:22.587Z",
     "createdBy": "ruzgar"
+  },
+  {
+    "id": "pg-13",
+    "path": "/blocked-drains-blacktown",
+    "type": "location",
+    "title": "Blocked Drains Blacktown",
+    "seoTitle": "Blocked Drains Blacktown | 24/7 Drain Plumbers | $0 Call-Out",
+    "seoDescription": "Blocked drain plumbers across Blacktown, from Seven Hills to Marsden Park and The Ponds. 24/7 clearing, CCTV, jetting and no-dig pipe relining. Licensed, $0 call-out.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-08-03T04:43:07.097Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-08-03T04:43:07.097Z",
+    "createdBy": "ruzgar"
   }
 ]
