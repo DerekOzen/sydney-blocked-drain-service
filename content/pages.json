@@ -207,5 +207,21 @@
     "updatedBy": "ruzgar",
     "createdAt": "2026-08-03T04:43:07.097Z",
     "createdBy": "ruzgar"
+  },
+  {
+    "id": "pg-14",
+    "path": "/blocked-drains-bayside",
+    "type": "location",
+    "title": "Blocked Drains Bayside",
+    "seoTitle": "Blocked Drains Bayside | 24/7 Drain Plumbers | $0 Call-Out",
+    "seoDescription": "Blocked drain plumbers across Bayside, from Rockdale and Brighton-Le-Sands to Wolli Creek and Mascot. 24/7 clearing, CCTV, jetting and no-dig relining. $0 call-out.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-08-03T04:44:00.788Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-08-03T04:44:00.788Z",
+    "createdBy": "ruzgar"
   }
 ]
