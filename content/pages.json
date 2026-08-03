@@ -143,5 +143,21 @@
     "updatedBy": "ruzgar",
     "createdAt": "2026-08-03T02:24:51.357Z",
     "createdBy": "ruzgar"
+  },
+  {
+    "id": "pg-10",
+    "path": "/commercial-drain-cleaning",
+    "type": "service",
+    "title": "Commercial Drain Cleaning",
+    "seoTitle": "Commercial Drain Cleaning Sydney | Business and Strata Drains | $0 Call-Out",
+    "seoDescription": "Commercial drain cleaning across Sydney for cafes, restaurants, factories, offices and strata. Scheduled and emergency, minimal downtime. Call (02) 8960 0868.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-03T02:25:31.519Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-08-03T02:25:31.519Z",
+    "createdBy": "ruzgar"
   }
 ]
