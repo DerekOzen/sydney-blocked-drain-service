@@ -175,5 +175,21 @@
     "updatedBy": "ruzgar",
     "createdAt": "2026-08-03T04:10:21.424Z",
     "createdBy": "ruzgar"
+  },
+  {
+    "id": "pg-12",
+    "path": "/blocked-drains-inner-west",
+    "type": "location",
+    "title": "Blocked Drains Inner West",
+    "seoTitle": "Blocked Drains Inner West | 24/7 Drain Plumbers | $0 Call-Out",
+    "seoDescription": "Blocked drain plumbers across the Inner West, from Balmain to Marrickville. 24/7 clearing, CCTV, water jetting and no-dig pipe relining. Licensed, insured, $0 call-out.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-08-03T04:42:22.587Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-08-03T04:42:22.587Z",
+    "createdBy": "ruzgar"
   }
 ]
