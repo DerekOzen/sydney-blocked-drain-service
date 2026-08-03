@@ -255,5 +255,21 @@
     "updatedBy": "ruzgar",
     "createdAt": "2026-08-03T04:45:54.469Z",
     "createdBy": "ruzgar"
+  },
+  {
+    "id": "pg-17",
+    "path": "/blocked-drains-north-shore",
+    "type": "location",
+    "title": "Blocked Drains North Shore",
+    "seoTitle": "Blocked Drains North Shore | 24/7 Drain Plumbers | $0 Call-Out",
+    "seoDescription": "Blocked drain plumbers across the Lower North Shore, from Hunters Hill to Lane Cove and Mosman. 24/7 clearing, CCTV, jetting and no-dig relining. $0 call-out.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-08-03T04:46:55.109Z",
+    "updatedBy": "ruzgar",
+    "createdAt": "2026-08-03T04:46:55.109Z",
+    "createdBy": "ruzgar"
   }
 ]
