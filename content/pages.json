@@ -474,10 +474,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-04T00:55:32.353Z",
+    "status": "published",
+    "updatedAt": "2026-08-04T00:55:57.338Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-04T00:55:32.353Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Home"
   }
 ]
