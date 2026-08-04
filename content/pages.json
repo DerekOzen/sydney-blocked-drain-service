@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/blockeold-home-page",
     "type": "page",
     "title": "BlockeOLD HOME PAGE",
     "seoTitle": "Blocked Drain Plumber Sydney | 24/7 Emergency Drain Clearing | $0 Call-Out",
@@ -10,11 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-04T00:56:22.720Z",
+    "updatedAt": "2026-08-04T00:57:10.966Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-31T05:28:05.560Z",
     "createdBy": "ruzgar",
-    "isHome": true,
+    "isHome": false,
     "category": "Other"
   },
   {
@@ -467,7 +467,7 @@
   },
   {
     "id": "pg-30",
-    "path": "/home-2",
+    "path": "/",
     "type": "page",
     "title": "Home 2",
     "seoTitle": "Blocked Drain Plumber Sydney | 24/7 Emergency Drain Clearing | $0 Call-Out",
@@ -476,10 +476,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-04T00:55:57.338Z",
+    "updatedAt": "2026-08-04T00:57:10.966Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-04T00:55:32.353Z",
     "createdBy": "derek",
-    "category": "Home"
+    "category": "Home",
+    "isHome": true
   }
 ]
